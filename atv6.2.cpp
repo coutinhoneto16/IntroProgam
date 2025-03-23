@@ -1,3 +1,6 @@
+// Exibir a tabuada de 1 a 10, usando laços.
+
+
 #include <iostream>
 using namespace std;
 

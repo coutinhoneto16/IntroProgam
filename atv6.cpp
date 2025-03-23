@@ -1,3 +1,6 @@
+//Gerar a sequência de 1 a 100 e mostrar a soma dos números pares.
+
+
 #include <iostream>
 using namespace std;
 

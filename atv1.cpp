@@ -1,3 +1,5 @@
+//Escrever um código simples para calcular a soma de dois números.
+
 #include <iostream>
 using namespace std;
 
